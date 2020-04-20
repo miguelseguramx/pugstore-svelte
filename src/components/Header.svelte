@@ -60,7 +60,7 @@
   }
 </style>
 
-<div class="Header">
+<div class="Header" data-testid="Header">
   <div class="Header-container">
     <div class="Header-content">
       <div class="Header-logo">

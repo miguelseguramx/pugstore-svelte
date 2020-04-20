@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header SnapShot Check the Snapshot of the Header 1`] = `"{\\"__svelte_meta\\":{\\"loc\\":{\\"file\\":\\"Header.svelte\\",\\"line\\":62,\\"column\\":0,\\"char\\":1245}}}"`;
