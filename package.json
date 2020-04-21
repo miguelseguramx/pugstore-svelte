@@ -23,14 +23,16 @@
       "\\.svelte$": "svelte-jester"
     },
     "moduleFileExtensions": [
-      "js", "svelte"
+      "js",
+      "svelte"
     ],
     "setupFilesAfterEnv": [
       "<rootDir>/test.config.js"
     ]
   },
   "dependencies": {
-    "svelte": "^3.20.1"
+    "svelte": "^3.20.1",
+    "workbox-webpack-plugin": "^5.1.2"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",

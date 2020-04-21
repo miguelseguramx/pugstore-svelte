@@ -25,7 +25,7 @@
     display: block;
     font-size: 9px;
     text-transform: uppercase;
-    color: gray;
+    color: #5d5d5d;
   }
   .Stories-head {
     display: flex;
@@ -70,7 +70,7 @@
         <img src="https://arepa.s3.amazonaws.com/oscar.png" alt="User photo">
       </div>
       <h2>
-        miguelseguramx
+        gndx
         <span>10 horas antes</span>
       </h2>
     </div>

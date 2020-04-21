@@ -1,0 +1,25 @@
+{
+  "short_name": "Pugstagram",
+  "name": "Pugstagram",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#bc1888",
+  "background_color": "#ffffff",
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "manifest_version": 1,
+  "version": "1.0.1",
+  "description": "Es una replica de instagram para perros creada con Svelte cuya version inicial fue creada en el curso de Svelte de GNDX. Esta creado para que los estudiantes de platzi practiquen sus habilidades en Svelte."
+}

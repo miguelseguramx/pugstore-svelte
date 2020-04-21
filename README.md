@@ -40,7 +40,7 @@ Podras ejecutar cualquiera de los siguientes comandos:
 
 **3.** Haz un Pull Request, tus cambios seran revisados y aceptados a la brevedad.
 
-Si quieres agregar unit testing puedes aprender a hacerlo en [mi tutorial.](https://platzi.com/clases/svelte/) (Lo agregare proximanente en la seccion de tutoriales)
+Si quieres agregar unit testing puedes aprender a hacerlo en [mi tutorial.](https://platzi.com/clases/svelte/) (Lo agregare proximanente en la seccion de tutorialesk)
 
 **OJO** *Si deseas practicar creando alguna funcionalidad que ya ha sido integrada a la app, agregaremos tu contribucion en una nueva rama con tu nombre.*
 

@@ -2,7 +2,7 @@
   export let comments = [];
 
   function addComment(event) {
-    const msg = event.target.text.value;
+    const msg = event.target.comment.value;
     if (msg.length > 3) {
       const message = {
         id:Date.now(),
@@ -11,7 +11,7 @@
       }
 
       comments = [...comments, message];
-      event.target.text.value = ""
+      event.target.comment.value = ""
     }
   }
 </script>
@@ -59,14 +59,14 @@
   }
   button {
     border: none;
-    color: #3897f0;
+    color: #0012b8;
     font-size: 12px;
     outline: none;
     cursor: pointer;
   }
-  /* label {
+  label {
     display: none;
-  } */
+  }
 </style>
 
 <div class="Comments">
@@ -81,12 +81,15 @@
     
     <div class="Comments-add">
       <form on:submit|preventDefault={addComment}>
-        <input
-          type="text"
-          class="Comments.input"
-          placeholder="Agregar comentario..."
-          id="text"
-        >
+        <label for="comment">
+          Agregar comentario
+          <input
+            type="text"
+            class="Comments.input"
+            placeholder="Agregar comentario..."
+            id="comment"
+          >
+        </label>
         <button type="submit">Post</button>
       </form>
     </div>
