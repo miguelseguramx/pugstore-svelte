@@ -1,6 +1,6 @@
 # **Pugstragram**
 
-Es una replica de instagram para perros creada con Svelte cuya version inicial fue creada en el curso de [Svelte](https://platzi.com/cursos/svelte/) de [GNDX](https://github.com/gndx)
+Es una replica de instagram para perros creada con Svelte cuya version inicial fue creada en el curso de [Svelte](https://platzi.com/cursos/svelte/) de [GNDX](https://github.com/gndx). Despues se agrego el responsive y la funcionalidad de ser una PWA capaz de lograr casi un 100 perfecto en el reporte de Ligthouse de Google
 
 **Esta creado para que los estudiantes de platzi practiquen sus habilidades en Svelte. Cada semana se crearan nuevos Issues con los diseños de nuevas funcionalidades para que nunca paren de aprender**
 
