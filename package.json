@@ -31,7 +31,7 @@
     ]
   },
   "dependencies": {
-    "svelte": "^3.20.1",
+    "svelte": "^3.49.0",
     "workbox-webpack-plugin": "^5.1.2"
   },
   "devDependencies": {
