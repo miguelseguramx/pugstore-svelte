@@ -47,7 +47,7 @@
     "svelte-jester": "^1.0.5",
     "svelte-loader": "^2.13.6",
     "webpack": "^4.42.1",
-    "webpack-cli": "^3.3.11",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.10.3"
   }
 }
